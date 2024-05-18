@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+
+}
+.conteiner{
+  width: 1140px;
+  margin: 0 auto;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.ul{
+    display: flex;
+    gap: 50px;
+
+}
+.li{
+font-size: 30px;  
+    color: rgb(10, 10, 10);
+
+}
+.img{
+    background-color: black;
+}
+.box{
+    width: 450px;
+    background-color: rgb(251, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 50px;
+    border-radius: 5px;
+}
+.box:hover{
+    width: 500px;
+    background-color: rgb(244, 245, 245);
+    transition: 0.25s ease;
+     box-shadow: 0px 0px 5px 5px rgb(78, 78, 78) ;
+     border-radius: 5px;
+}
+.box2{
+    width: 450px;
+    background-color: rgb(251, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 50px;
+    border-radius: 5px;
+}
+.box2:hover{
+    width: 500px;
+    background-color: rgb(244, 245, 245);
+    transition: 0.25s ease;
+     box-shadow: 0px 0px 5px 5px rgb(78, 78, 78) ;
+     border-radius: 5px;
+}
+.all-box{
+    display: flex;
+    justify-content: space-between;
+
+}
+.p{
+    width: 350px;
+    font-size: 20px;
+    color: grey;
+    text-align: center;
+    
+   
+
+}
+.h2{
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    
+
+}
+.wrapper1{
+width: 900px;
+gap: 25px;
+border-radius:20px ;
+background-color: rgb(4, 41, 110);
+
+padding: 50px;
+
+}
+.h3{
+    font-size: 40px;
+
+}
+.text{
+    
+    color: darkgray;
+    font-size: 25px;
+    width: 680px;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+}
+.conteiner2{
+    width: 1140px;
+   margin: 0 auto;
+}
+.te{
+    
+    font-size: 45px;
+    padding: 25px 25px;
+    width: 550px;
+   margin-left: 250px;
+   color: rgb(5, 5, 112);
+
+    
+}
+.bg{
+    background-image: url(./1678213632_sneg-top-p-meteoritnii-dozhd-oboi-vkontakte-63.jpg);
+    width: 1740px;
+    height: 1540px;
+   
+padding: 50px;
+}
+.sec{
+    padding: 50px;
+}
+.header1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
